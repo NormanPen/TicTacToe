@@ -7,7 +7,7 @@ public class Player {
 
     Scanner scanner = new Scanner(System.in);
 
-    String getName() {
+    String inputName() {
         System.out.println("Wie ist dein Name?");
         return name = scanner.next();
     }
@@ -20,6 +20,8 @@ public class Player {
         String playerMove = scanner.next();
         return Integer.valueOf(playerMove )-1;
     }
+
+
 
 
 
