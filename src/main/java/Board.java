@@ -9,9 +9,15 @@ public class Board {
                 // board neu befüllen
                 System.out.println(board[i]);
         }
-
-
     }
+
+    /*
+    public void readBoard() {
+        // liest board aus
+        for ( int i = 0; i < board.length;i++){
+
+            return board[i];
+    }*/
 
 
 
