@@ -2,7 +2,7 @@ public class Board {
 
     public String[] board = new String[]{"1", "2", "3", "4", "5", "6", "7", "8", "9"};
 
-
+/*
     public void resetBoard(){
             for ( int i = 0; i < board.length;i++){
                 // brauche funktion um int in string zu kriegen
@@ -10,6 +10,8 @@ public class Board {
                 System.out.println(board[i]);
         }
     }
+
+ */
 
     /*
     public void readBoard() {

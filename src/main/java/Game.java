@@ -32,7 +32,7 @@ public class Game {
                 }
             }
             System.out.println("Gewonnen");
-            board.resetBoard();
+            //board.resetBoard();
 
         }
 
